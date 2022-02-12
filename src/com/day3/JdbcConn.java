@@ -43,6 +43,7 @@ public class JdbcConn {
 			e.printStackTrace();
 			System.out.println("Some Error Occured");
 			System.out.println("Error Occured");
+			System.out.println("Error Occured");
 		}
 	}
 }
