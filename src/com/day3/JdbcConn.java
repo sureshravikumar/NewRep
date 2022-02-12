@@ -41,6 +41,11 @@ public class JdbcConn {
 
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.out.println("Some Error Occured");
+			System.out.println("Error Occured");
+			System.out.println("Error Occured");
+			//NEW1
+			System.out.println("Error Occured");
 			//Data New
 			System.out.println("Data Err");
 		}
