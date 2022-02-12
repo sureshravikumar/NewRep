@@ -46,6 +46,8 @@ public class JdbcConn {
 			System.out.println("Error Occured");
 			//NEW1
 			System.out.println("Error Occured");
+			//Data New
+			System.out.println("Data Err");
 		}
 	}
 }
